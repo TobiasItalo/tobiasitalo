@@ -27,48 +27,57 @@ Here are some ideas to get you started:
     aling="center"
     height="30px"
     width="40px"
-    alt="Italo-HTML-5"
+    alt="Tobias-HTML-5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   />
   <img
     aling="center"
     height="30px"
     width="40px"
-    alt="Italo-CSS-3"
+    alt="Tobias-CSS-3"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   />
   <img
     aling="center"
     height="30px"
     width="40px"
-    alt="Italo-NODE-JS"
+    alt="Tobias-NODE-JS"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   />
   <img
     aling="center"
     height="30px"
     width="40px"
-    alt="Italo-React"
+    alt="Tobias-React"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   />
   <img
     style="aling: center"
     height=40px width=30px
-    alt="Italo-Redux"
+    alt="Tobias-Redux"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
   />
   <img
     style="aling: center"
     height=40px width=30px
-    alt="Italo-Jest"
+    alt="Tobias-Jest"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
   />
   <!--
-    <img
+  <img
     style="aling: center"
     height=40px width=30px
-    alt="Italo-Mongo-DB"
+    alt="Tobias-Mongo-DB"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
   />
   -->
 </ div>
+<div>
+  <img
+    style="aling: center"
+    height="150"
+    alt="Tobias-Jedi"
+    src="./src/images/mace-windu-jedi-star-wars.png"
+  />
+</ div>
+
