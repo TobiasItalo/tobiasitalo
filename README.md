@@ -1,4 +1,5 @@
 # Olá, sou o Ítalo Tobias!
+tobiasitalo@gmail.com
 
 <!--
 **tobiasitalo/tobiasitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
