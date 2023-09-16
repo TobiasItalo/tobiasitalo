@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     style="aling: center"
     height="150"
     alt="Tobias-Jedi"
-    src="./src/images/mace-windu-jedi-star-wars.png"
+    src="./src/images/mace-windu-jedi-star-wars_transp.png"
   />
 </ div>
 
